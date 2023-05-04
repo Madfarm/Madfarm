@@ -1,4 +1,6 @@
-# Call me Anthony | Full-stack web developer
+# Call me Anthony 
+
+Full-stack web developer | React Enjoyer | Software Engineer
 
 
 
