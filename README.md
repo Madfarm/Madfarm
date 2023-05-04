@@ -1,4 +1,4 @@
-# Full-stack web developer | React Enjoyer | Software Engineer
+# Full-Stack Web Developer | React Enjoyer | Software Engineer
 
 >I think there's always a better way
 
