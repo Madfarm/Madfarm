@@ -5,8 +5,9 @@
 
 
 ````
-- 🌱 I’m currently learning React and Typescript
+- 🌱 I’m currently learning Typescript
 - 👯 I’m looking to collaborate on web development projects and innovative technologies in the web development space - 
-        Serverless architecture, I've got my eye on you 👀
+        Resumability, I've got my eye on you 👀
+
 ````
 
