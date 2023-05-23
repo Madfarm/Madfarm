@@ -5,8 +5,9 @@
 
 
 ````
-- 🌱 I’m currently learning Typescript
-- 👯 I’m looking to collaborate on web development projects and innovative technologies in the web development space - 
+- I’m currently learning Typescript
+- Coming up next => Angular, Docker, Astro
+- I’m looking to collaborate on web development projects and innovative technologies in the web development space - 
         Resumability, I've got my eye on you 👀
 
 ````
