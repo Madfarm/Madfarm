@@ -5,8 +5,8 @@
 
 
 ````
-- I’m currently learning Angular and Typescript
-- Coming up next => Cypress, Docker, Astro 
+- I’m currently learning Astro and Typescript
+- Coming up next => Cypress, Angular, Docker
 - I’m looking to collaborate on web development projects and innovative technologies in the web development space - 
         Resumability, I've got my eye on you 👀
 
