@@ -11,10 +11,16 @@
         Resumability, I've got my eye on you 👀
 
 ````
-
-Commits by Language          |  Overall Stats
+Commits by Language        |  Overall Stats 
 :-------------------------:|:-------------------------:
-![](https://raw.githubusercontent.com/Madfarm/Madfarm/main/profile-summary-card-output/apprentice/2-most-commit-language.svg) | ![](https://raw.githubusercontent.com/Madfarm/Madfarm/main/profile-summary-card-output/apprentice/3-stats.svg)
+![](https://raw.githubusercontent.com/Madfarm/Madfarm/main/profile-summary-card-output/react/2-most-commit-language.svg) | ![](https://raw.githubusercontent.com/Madfarm/Madfarm/main/profile-summary-card-output/react/3-stats.svg) 
+
+
+
+
+
+
+
 
 
 
