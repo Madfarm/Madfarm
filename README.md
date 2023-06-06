@@ -5,7 +5,7 @@
 
 
 ````
-- I’m currently learning Astro and Typescript
+- I’m currently learning C# and .Net
 - Coming up next => Cypress, Angular, Docker
 - I’m looking to collaborate on web development projects and innovative technologies in the web development space - 
         Resumability, I've got my eye on you 👀
