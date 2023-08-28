@@ -5,8 +5,8 @@
 
 
 ````
-- I’m currently learning C# and .NET Core
-- Coming up next => Docker, Cypress, Angular
+- I’m currently learning Azure and .NET Core
+- Coming up next => Angular 
 - I’m looking to collaborate on web development projects and innovative technologies in the web development space - 
         Resumability, I've got my eye on you 👀
 
