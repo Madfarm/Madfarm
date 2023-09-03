@@ -5,7 +5,7 @@
 
 
 ````
-- I’m currently learning Azure and .NET Core
+- I’m currently learning Azure
 - Coming up next => Angular 
 - I’m looking to collaborate on web development projects and innovative technologies in the web development space - 
         Resumability, I've got my eye on you 👀
