@@ -1,11 +1,11 @@
-# Full-Stack Web Developer | .NET Enjoyer | Software Engineer
+# Software Engineer | .NET Enjoyer | React Enjoyer
 
->I think there's always a better way
+> I think there's always a better way
 
 
 
 ````
-- I’m currently mastering Azure and Selenium
+- I’m currently mastering Azure
 - Coming up next => Angular 
 - I’m looking to collaborate on web development projects and innovative technologies in the web development space - 
         Resumability, I've got my eye on you 👀
