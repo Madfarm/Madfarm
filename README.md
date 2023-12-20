@@ -5,11 +5,9 @@
 
 
 ````
-- I’m currently mastering Azure
+- I’m currently mastering AWS
 - Coming up next => Angular 
-- I’m looking to collaborate on web development projects and innovative technologies in the web development space - 
-        Resumability, I've got my eye on you 👀
-
+- AWS Certified 
 ````
 Commits by Language        |  Overall Stats 
 :-------------------------:|:-------------------------:
