@@ -5,7 +5,7 @@
 
 
 ````
-- I’m currently mastering AWS
+- I’m currently mastering React Native
 - Coming up next => Angular 
 - AWS Certified 
 ````
